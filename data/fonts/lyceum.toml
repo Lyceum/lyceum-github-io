@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Lyceum"
+
+# Optional Google font URL
+google_fonts = "Muli|Philosopher"
+
+# Font families
+heading_font = "Philosopher"
+body_font = "Muli"
+nav_font = "Muli"
+mono_font = "Muli"
