@@ -8,5 +8,3 @@ menu:
     name: Overview
     weight: 1
 ---
-
-Welcome to Lyceum
