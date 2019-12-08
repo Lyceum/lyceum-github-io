@@ -2,12 +2,12 @@
 name = "Academic Docs"
 
 # Is theme light or dark?
-light = true
+light = "dark"
 
 # Primary
-primary = "#4b2e83"
-primary_light = "#65489d"
-primary_dark = "#32156a"
+primary = "#073642" # base02
+primary_light = "#2aa198" # cyan
+primary_dark = "#6c71c4" # violet
 
 # Links
 link = "#85754d"
