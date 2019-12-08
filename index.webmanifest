@@ -1,9 +1,9 @@
 {
-  "name": "Lyceum Robotics",
-  "short_name": "Lyceum Robotics",
+  "name": "Lyceum",
+  "short_name": "Lyceum",
   "lang": "en-us",
-  "theme_color": "#4b2e83",
-  "background_color": "#4b2e83",
+  "theme_color": "#073642",
+  "background_color": "#073642",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
