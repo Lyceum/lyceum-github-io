@@ -1,0 +1,12 @@
+/* Hero title: use brand color and bigger font. */
+.hero-title {
+  font-family: "Philosopher";
+  font-weight: 600;
+  font-size: 3rem;
+}
+
+.hero-lead {
+  color: $sta-primary;
+  max-width: 768px;
+  font-size: 1.15rem;
+}

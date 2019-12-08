@@ -18,10 +18,11 @@ title = "Lyceum"
 
   # Background color.
   # color = "navy"
+    color = "#268bd2" # blue
 
   # Background gradient.
-  gradient_start = "#4b2e83"
-  gradient_end = "#392363"
+  # gradient_start = "#073642" # base02
+  # gradient_end = "#002b36" # base03
 
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -31,13 +32,14 @@ title = "Lyceum"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "http://lyceumrobotics.org/tutorials/"
+  #url = "docs.lyceumrobotics.org"
+  url = "coming-soon.html"
   label = "Get Started"
   icon_pack = "fas"
   icon = "robot"

@@ -5,7 +5,7 @@ name = "Lyceum"
 google_fonts = "Muli|Philosopher"
 
 # Font families
-heading_font = "Philosopher"
+heading_font = "Muli"
 body_font = "Muli"
-nav_font = "Muli"
+nav_font = "Philosopher"
 mono_font = "Muli"
