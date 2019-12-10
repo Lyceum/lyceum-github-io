@@ -38,7 +38,7 @@ title = "Lyceum"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  #url = "docs.lyceumrobotics.org"
+  #url = "docs.lyceum.ml"
   url = "coming-soon.html"
   label = "Get Started"
   icon_pack = "fas"
