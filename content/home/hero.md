@@ -46,7 +46,7 @@ title = "Lyceum"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-    label = "Coming December 2019"
+    label = "Coming mid-January 2020"
 +++
 
 **An efficient and scalable ecosystem for robot learning**
