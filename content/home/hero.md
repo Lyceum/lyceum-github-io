@@ -38,15 +38,14 @@ title = "Lyceum"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  #url = "docs.lyceum.ml"
-  url = "coming-soon.html"
+  url = "https://docs.lyceum.ml/dev"
   label = "Get Started"
   icon_pack = "fas"
   icon = "robot"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-    label = "Coming mid-January 2020"
+# [cta_note]
+#     label = "Coming mid-January 2020"
 +++
 
 **An efficient and scalable ecosystem for robot learning**
