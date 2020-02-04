@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's Student
+role: "Project Lead \n\n Master's Student"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -18,7 +18,7 @@ bio:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Researchers
 #- Visitors
 ---
 

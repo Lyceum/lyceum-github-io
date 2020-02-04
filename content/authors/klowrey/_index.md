@@ -19,7 +19,7 @@ bio:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Researchers
 #- Visitors
 ---
 I am a Postdoctoral Fellow at UW with Sham Kakade. My primary area of focus is

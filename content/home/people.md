@@ -20,7 +20,7 @@ subtitle = ""
   #               "Visitors",
   #               "Alumni"]
 
-  user_groups = ["Grad Students", "Professors"]
+  user_groups = ["Researchers", "Professors"]
 
 [design]
   # Show user's social networking links? (true/false)
