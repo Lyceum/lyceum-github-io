@@ -42,10 +42,6 @@ title = "Lyceum"
   label = "Get Started"
   icon_pack = "fas"
   icon = "robot"
-
-# Note. An optional note to show underneath the links.
-# [cta_note]
-#     label = "Coming mid-January 2020"
 +++
 
 **An efficient and scalable ecosystem for robot learning**
